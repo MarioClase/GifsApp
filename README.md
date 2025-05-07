@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
 
+Es una aplicación que se basa en búsqueda de imágenes Gif, consumiendo la API de GIPHY.
+
+Una vez realizamos una búsqueda, se nos queda guardado un botón con dicha búsqueda, para poder acceder a ella, clicando en el directamente
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
